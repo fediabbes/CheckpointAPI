@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: silver;
+}
+
+.Card {
+  width: 18rem;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: silver;
+  width: 22rem;
+  margin: auto;
+  padding: 16px;
+  margin-top: 20px;
+  border-radius: 20px;
+  box-shadow: 0.3px 0.3px 0.3px 0.3px rgb(24, 245, 190);
+  text-align: justify;
+}
